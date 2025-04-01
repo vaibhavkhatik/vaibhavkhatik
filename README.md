@@ -1,21 +1,7 @@
-👋 Hi, I'm Vaibhav Khatik!
-🚀 Software Developer | Passionate about Web Development & Cloud Technologies
+## 👋 Hi, I'm Vaibhav Khatik!  
+🚀 **Software Developer** | Passionate about Web Development & Cloud Technologies  
 
-🔹 About Me
-🎓 Education: BE in Computer Science from Savitribai Phule Pune University (2023)
-💻 Experience: 6+ months of hands-on experience in Web Development & Cloud Infrastructure
-🌱 Currently Learning: Spring Boot, Angular, Advanced Java, and Cloud Computing
-📍 Location: Pune, India
-
-💻 Tech Stack
-Frontend: HTML5, CSS3, JavaScript, Angular, Bootstrap
-
-Backend: Java, Spring Boot, Python
-
-Databases: MySQL, PostgreSQL
-
-Cloud & DevOps: AWS, Git, GitHub
-
-Other Tools: Docker, GitHub Actions
-
-🔗 Connect with Me
+🎓 **BE in Computer Science** | Pune, India  
+💻 **Tech Stack:** Java, Spring Boot, Python, Angular, MySQL, AWS, Git  
+🌱 **Learning:** Advanced Java, Spring Boot, Cloud Computing  
+📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/vaibhav-khatik) | [GitHub](https://github.com/vaibhavkhatik)
