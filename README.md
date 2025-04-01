@@ -34,15 +34,15 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> <br><br>
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> <br><br>
-  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React.js"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> <br><br>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> <br><br>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/> 
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> 
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/> 
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"/> 
+  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React.js"/> 
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/> 
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/> 
 </p>
