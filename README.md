@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Vaibhav Khatik!
+🚀 Software Developer | Passionate about Web Development & Cloud Technologies
 
-<!--
-**vaibhavkhatik/vaibhavkhatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 About Me
+🎓 Education: BE in Computer Science from Savitribai Phule Pune University (2023)
+💻 Experience: 6+ months of hands-on experience in Web Development & Cloud Infrastructure
+🌱 Currently Learning: Spring Boot, Angular, Advanced Java, and Cloud Computing
+📍 Location: Pune, India
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Frontend: HTML5, CSS3, JavaScript, Angular, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend: Java, Spring Boot, Python
+
+Databases: MySQL, PostgreSQL
+
+Cloud & DevOps: AWS, Git, GitHub
+
+Other Tools: Docker, GitHub Actions
+
+🔗 Connect with Me
