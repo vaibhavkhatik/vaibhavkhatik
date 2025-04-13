@@ -10,7 +10,7 @@
   🏢 Studied at <strong>Savitribai Phule Pune University</strong> <br><br>
   💻 <strong>Software Developer | Full Stack Enthusiast</strong> <br><br>
   📫 Reach me at <a href="mailto:vaibhavkhatik821@gmail.com"><strong>vaibhavkhatik821@gmail.com</strong></a> <br><br>
-  🌐 <strong>Portfolio:</strong> <a href="https://vaibhavkhatik.github.io/Vaibhav-Portfolio/" target="_blank"><strong>Vaibhav Khatik</strong></a> <br><br>
+  🌐 <strong>Portfolio:</strong> <a href="https://vaibhavkhatik.github.io/Vaibhav-Portfolio/" target="_blank"><strong>Vaibhav_Khatik</strong></a> <br><br>
 </p>
 
 ---
